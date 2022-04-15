@@ -1,5 +1,7 @@
 # mohammedLokritiRepo
-_Italic_ text 
+![Screenshot](./images/screenshot.png)
+
+_italic Text_
 https://lokritim.github.io/mohammedLokritiRepo/
 
-![Screenshot](./images/gitscreenshot.png)
+
